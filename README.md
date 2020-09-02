@@ -17,6 +17,17 @@ Stake Minimum Age: 8 Hours
 Port: 58755
 RPC Port: 58855
 
+Ticker: DEFIT
+Supply: 500 M
+Block Size: 2 MB
+Masternode Collateral: 5k DEFIT
+Darksend Collateral: 5k DEFIT
+Masternode Epochtime: 1604219901 (Halloween November 1)
+Pow: 1 DEFIT (Security system)
+Pos reward: 50% 
+MN reward: 46%
+Stake reward: 4%
+
 
 BUILD LINUX (see the [Wiki](https://github.com/sagacrypto/Defiant/wiki/Unix-Build) for dependencies)
 -----------
