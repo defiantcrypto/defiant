@@ -11,11 +11,6 @@ Defiant uses libsecp256k1,
 			  QT5 to compile
 
 
-Block Spacing: 60 Seconds
-Stake Minimum Age: 8 Hours
-
-Port: 58755
-RPC Port: 58855
 
 Ticker: DEFIT
 Supply: 500 M
@@ -27,6 +22,11 @@ Pow: 1 DEFIT (Security system)
 Pos reward: 50% 
 MN reward: 46%
 Stake reward: 4%
+Block Spacing: 60 Seconds
+Stake Minimum Age: 8 Hours
+Port: 58755
+RPC Port: 58855
+
 
 
 BUILD LINUX (see the [Wiki](https://github.com/sagacrypto/Defiant/wiki/Unix-Build) for dependencies)
