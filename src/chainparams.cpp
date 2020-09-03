@@ -97,7 +97,7 @@ public:
         vFixedSeeds.clear();
         vSeeds.clear();
         vSeeds.push_back(CDNSSeedData("100.21.176.151", "100.21.176.151"));
-      //  vSeeds.push_back(CDNSSeedData("dnsseed2.defiant.net", "dnsseed2.defiant.net"));
+        vSeeds.push_back(CDNSSeedData("18.197.172.21", "18.197.172.21"));
 		
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,125);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,44);
