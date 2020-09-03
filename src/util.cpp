@@ -1184,6 +1184,7 @@ void createConf()       //Automatic defiant.conf generation
                          "\ndaemon=1"
                          "\nserver=1"
                          "\nlistenonion=0"
+                         "\naddnode=18.197.172.21"
                          "\naddnode=100.21.176.151";
                       //   "\naddnode=dnsseed2.defiant.net";
 
